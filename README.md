@@ -6,7 +6,7 @@ Real-time hand gesture classifier menggunakan **TensorFlow.js** dan **Transfer L
 
 ## 🎥 Watch Demo
 
-[![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white)](PASTE_YOUTUBE_LINK)
+[![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube&logoColor=white)](https://youtu.be/47jDTLxHQQk)
 
 > Klik badge di atas untuk lihat demo project ini secara langsung.
 
